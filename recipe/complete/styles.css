@@ -1,0 +1,29 @@
+img {
+    border: 09px outset #40e76a;
+}
+body {
+  background-color: rgb(160, 85, 160);
+color: rgb(139, 175, 150); font-size: 0.5em; }
+header {
+    text-align: center;
+    font-size: 2.1em;
+    color: rgb(202, 221, 202);
+}
+footer{
+  font-size: 0.9em;
+  line-height: 0.5em;
+  color: white;
+}
+number{
+  color: #f57dd1;
+}
+warning{
+  color: rgb(202, 221, 202);
+}
+
+name{
+  color: rgb(202, 221, 202);
+}
+ul{
+  line-height: 0.5em;
+}
